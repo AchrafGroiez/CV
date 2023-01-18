@@ -1,0 +1,35 @@
+Du code et des images ont peut-être ou ont était modifier après leur obtention à travers divers sites est leur lien est ci-dessous. 
+Bibliographie(lien utile):
+    -TP02
+    -font-awesome
+    -Cégep marie-victorin(site) j'ai vu le truc des radio qui change les images
+    -TP04 
+    -Aide de Davider (il ma expliquer comment faire l'effet de transition d'une classe à l'autre et ma donné ce code-webkit-transition: 1000ms; -moz-transition: 1000ms; transition: max-width background-color;)
+    -TP02
+    -picwish
+    -removebg
+    -github(j'ai regardé le footer et https://github.com/about et j'ai essayer de faire un design similaire à ceux-ci)
+    -Diplôme d'études secondaires
+    -Un ancien que j'avais fait moi et ma mère
+    -Le github 420-112-A22-Gr01
+    -Le github du TP02
+    -Le github MV-Travaux-112-Groiez
+    -https://sketchfab.com/3d-models/2018-honda-accord-20t-sport-405349ce97544f96a6d4f2b8494a7ea3 (modifié)
+    https://fr.wikipedia.org/wiki/Citroën
+    https://fr.3dexport.com/free-3dmodel-acura-rsx-type-s-384874.htm (modifié)
+    https://www.shutterstock.com/fr/search/car-logo (modifié)
+    https://wallpapercave.com/maybach-exelero-wallpapers (modifié)
+    https://fr.wikipedia.org/wiki/Maybach_Exelero 
+    https://actualites-decalees.autojournal.fr/20-voitures-uniques-monde-159833.html#item=6
+    https://fr.wikipedia.org/wiki/Honda_S2000 (modifié)
+    https://fr.wikipedia.org/wiki/Lexus_LFA (modifié)
+    https://fr.wikipedia.org/wiki/Mercedes-Benz_CLK_GTR (modifié)
+    https://www.topgear.com/car-news/motorsport/feast-your-eyes-upon-10000000-mercedes-benz-amg-clk-gtr
+    https://wallpaperaccess.com/ford-escape (modifié)
+    https://www.journaldunet.com/web-tech/developpeur/1099338-html5-les-nouveaux-attributs-video-au-crible/1099344-loop
+    https://pixabay.com/illustrations/car-vehicle-sports-car-racing-car-49278/ (modifié)
+    http://clipart-library.com/clipart/6Tp5kekyc.htm (modifié)
+    http://clipart-library.com/clipart/8TEbeX4zc.htm (modifié)
+    https://stackoverflow.com/questions/6120931/how-to-count-certain-elements-in-array
+    https://www.devenir-webmaster.com/V2/TUTO/CHAPITRE/JAVASCRIPT/25-modifier-le-document/
+    https://www.devenir-webmaster.com/V2/TUTO/CHAPITRE/JAVASCRIPT/25-modifier-le-document/exe/attribut-modifier-propriete.html
