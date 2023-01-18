@@ -1,0 +1,184 @@
+/* Achraf Groiez (c) - septembre 2022 */
+.sejour{
+    height: 400px;
+    background-image: url("/img/cuba.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.sejour h1{
+    font-size: 37px;
+    bottom: -155px;
+}
+                                                                                                                                                                                                                           
+
+.sejour h1,p{
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+
+.er{
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+}
+
+
+.sejour p{
+    bottom: -175px;
+    font-size: 13px;
+}
+
+
+.About{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    position: relative;
+    bottom: -190px;
+}
+
+
+.About:hover{
+    background-color: rgb(241, 200, 123);
+    border: none;
+}
+
+
+.About a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+.room{
+    background-image:  url("/img/room2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 278px;
+    bottom: -0px;
+} 
+
+
+.histoire{
+    background-color: black;
+    height: 278px;
+    position: relative;
+    float: right;
+    bottom: 278px;
+    text-align: center;
+    width: 50%;
+    overflow: hidden;
+    padding:  50px 30px;
+}
+
+
+.histoire h4{
+    position: relative;
+    bottom: -20px;
+}
+
+
+.histoire li{
+    list-style: none;
+    line-height: 1.25em;
+}
+
+
+.histoire h4, nav[class="naya"]{
+    position: relative;
+    bottom: 30px;
+}
+
+
+.ensavoir{
+    background-color: white;
+    height: 40px;
+    width: 140px;
+    text-align: center;
+    position: relative;
+    bottom: -5px;
+}
+
+.ensavoir a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+
+.ensavoir:hover{
+    background-color: rgb(241, 200, 123);
+}
+
+.location{
+    position: relative;
+    background-color: rgba(238, 235, 228, 0.811);
+    bottom: 279.5px;
+    width: 33.33%;
+    height: 5.2cm; 
+    text-align: center;
+}
+
+.location i{
+    position: relative;
+    bottom: -36px;
+}
+
+.meals{
+    position: relative;
+    float: none;
+    background-color:  rgb(241, 200, 123);
+    bottom: 279.5px;
+    width: 33.33%;
+    height: 4.725cm;  
+    text-align: center;
+}
+
+.meals i{
+    position: relative;
+    bottom: -36px;
+}
+
+
+.fitness{
+    position: relative;
+    float: right;
+    background-color:  rgba(238, 235, 228, 0.811);
+    bottom: 279.5px;
+    width: 33.33%;
+    height: 4.725cm; 
+    text-align: center;  
+}
+
+.fitness i{
+    position: relative;
+    bottom: -36px;
+}
+
+
+
+footer{
+    background-color: black;
+    position: relative;
+    padding: 10px;
+    bottom: 278px;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+.footandmeal{
+    position: relative;
+    bottom: -279px;
+    display: flex;
+    width: 100%;
+    bottom: -1.5px;
+}

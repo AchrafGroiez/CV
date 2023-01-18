@@ -1,0 +1,105 @@
+.location{
+    position: relative;
+    width: 33%;
+    height: 5.725cm; 
+    text-align: center;
+    right: -160px;
+}
+
+.location i{
+    position: relative;
+    bottom: -36px;
+    
+}
+
+.location p{
+    position: relative;
+    bottom: -20px;
+
+}  
+
+.meals{
+    position: relative;
+    float: none;
+    width: 33%;
+    height: 5.725cm;  
+    text-align: center;
+}
+
+.meals i{
+    position: relative;
+    bottom: -36px;
+}
+
+.meals p{
+    position: relative;
+    bottom: -20px;
+
+}    
+
+
+.fitness{
+    position: relative;
+    float: right;
+    width: 33%;
+    height: 5.725cm; 
+    text-align: center; 
+    right: 160px;
+}
+
+.fitness i{
+    position: relative;
+    bottom: -36px;
+}
+
+.fitness p{
+    position: relative;
+    bottom: -20px;
+
+}    
+
+
+
+footer{
+    position: relative;
+    padding: 10px;
+    bottom: -8px;
+    text-align: center;
+    font-size: 12px;
+    background-color: #222;
+    color: white;
+}
+
+
+.footandmeal{
+    background-color: black;
+    position: relative;
+    bottom: -279px;
+    display: flex;
+    width: 100%;
+    bottom: -11.5px;
+    color: white;
+    font-size: 11px;
+    height: 199px;
+    
+}
+
+eml{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.hotel{
+    position: relative;
+    line-height: 22px;
+}
+
+.l{
+    position: relative;
+    bottom: -10px;
+}
+
+form label, textarea{
+    font-size: 15px;
+}
+

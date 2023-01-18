@@ -1,0 +1,178 @@
+/* Achraf Groiez (c) - septembre 2022 */
+/*Reset*/
+/*(* s'applique a toute la page)*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.img{
+    width: 35px;
+    height: 35px;
+    position: relative;
+    right: -100px;
+    bottom: -15px;
+}
+
+
+html, body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    line-height: 40px;
+}
+
+
+.navbar{
+    padding: 5px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    overflow: auto;
+}
+
+
+.navbar ul li a{
+    color: white; 
+    float: right;
+    display: block;
+    padding: 1%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+
+.navbar h1{
+    float: left;
+}
+
+
+.navbar ul{
+    list-style: none;
+    position: relative;
+    right: 100px;
+}
+
+
+.navbar ul li a:hover{
+    background-color: rgb(165, 163, 171);
+    background: rgb(165, 163, 171);
+    height: 60px;
+}
+
+
+em2{
+    font-weight: bold;
+}
+
+
+em3{
+    color: rgb(241, 200, 123);
+}
+
+
+.color{
+    background-color: rgb(66, 68, 66);
+    position: relative;
+    height: 60px;
+}
+
+
+emblanc{
+    color: white;
+}
+
+
+emblack{
+    color: white;
+    font-size: 10px;
+    position: relative;
+    bottom: -28px;
+}
+
+
+emnoir{
+    color: black;
+    font-size: 11px;
+    position: relative;
+    bottom: -28px;
+}
+
+
+emnoirbold{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    bottom: -28px;
+}
+
+
+form{
+    line-height: 34px;
+    text-align: center;
+    box-shadow: none;
+}  
+
+
+label{
+    display: block;
+}
+
+
+button[type="submit"]{
+background-color: rgb(0, 0, 0);
+color: white;
+height: 35px;
+width: 80px;
+text-align: center;
+}
+
+
+input{
+    width: 700px;
+    height: 30px;
+}
+
+
+textarea{
+    width: 700px;
+    height: 200px;
+}
+
+.center{
+    position: relative;
+    right: 24.88%;
+}
+
+
+.center2{
+    position: relative;
+    right: 25.88%;
+}
+
+
+.center3{
+    position: relative;
+    right: 25.7%;
+}
+
+
+.center4{
+    position: relative;
+    right: 24.18%;
+}
+
+
+.lophem{
+    padding: 10px;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+
+
+.font{
+    word-spacing: 150px;
+}

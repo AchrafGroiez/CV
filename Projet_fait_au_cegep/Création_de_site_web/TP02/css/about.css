@@ -1,0 +1,119 @@
+.Abouthotel{
+    background-color: rgba(238, 235, 228, 0.811);
+    width: 100%;
+    height: 270px;
+}
+
+
+.Abouthotel p{
+    position: relative;
+    color: black;
+    right: -240px;
+    text-align: justify;
+    line-height: 25px;
+    font-size: 11px; 
+    width: 400px;
+    bottom: -7px;
+}
+
+
+.Abouthotel h2{
+    position: relative;
+    right: -230px;
+    width: 400px;
+}
+
+
+img[src="/img/maison.png"]{
+    position: relative;
+    height: 300px;
+    right: -570px;
+    bottom: 290px;
+    width: 29em;
+}
+
+.lo{
+    background-image: url("/img/entre.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 360px;
+    bottom: 320px;
+    display: block;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    position: relative;
+    padding: 10px;
+    bottom: 320px;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+.orange p{
+right: -110px;
+position: relative;
+color: black;
+text-align: justify;
+line-height: 25px;
+font-size: 11px; 
+width: 700px;
+bottom: 70px;
+}
+
+img[src="/img/ludovic.jpeg"]{
+    position: relative;
+    bottom: -15px;
+    height: 70px;
+    width: 75px;
+    right: -10px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.orange{
+    background-color: rgb(241, 200, 123);
+    height: 100px;
+    width: 725px;
+    opacity: 85%;
+    position: relative;
+    right: -260px;
+    bottom: -47px;
+}
+
+.red{
+    background-color: rgb(241, 200, 123);
+    opacity: 85%;
+    position: relative;
+    right: -260px;
+    bottom: -70px;
+    width: 725px;
+    height: 100px;
+}
+
+
+.red p{
+    right: -120px;
+    position: relative;
+    color: black;
+    text-align: justify;
+    line-height: 25px;
+    font-size: 11px; 
+    width: 700px;
+    bottom: 80px;
+    }
+
+
+    img[src="/img/PHOTO.jpg"]{
+        position: relative;
+        bottom: -10px;
+        height: 80px;
+        width: 85px;
+        right: -10px;
+        border-radius: 50%;
+        border: 2px solid black;
+    }
