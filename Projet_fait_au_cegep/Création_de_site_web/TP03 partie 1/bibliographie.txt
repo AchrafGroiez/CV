@@ -1,0 +1,8 @@
+Bibliographie(Consultation utile):
+    -Le github de votre cours
+    -Ce qu'on a vu en classe
+    -Les trucs que vous nous avez montrez en classe sur le TP03 partie 1
+    -Labo 17
+    -https://learn.microsoft.com/fr-fr/cpp/cpp/logical-or-operator-pipe-pipe?view=msvc-170
+    -https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Functions#:~:text=D%C3%A9finir%20des%20fonctions,-Les%20d%C3%A9clarations%20de&text=Une%20d%C3%A9finition%20de%20fonction%20(aussi,et%20s%C3%A9par%C3%A9s%20par%20des%20virgules.
+    -Et peut-être d'autres
