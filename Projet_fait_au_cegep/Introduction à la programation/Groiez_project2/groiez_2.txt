@@ -1,0 +1,14 @@
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is error and the dictionnary with sort value was {'d': ['c', 'l'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['b', 'c', 'd'] and the dictionnary with sort value was {'d': ['b', 'c'], 'c': ['b'], 'b': []}
+The result is ['T1', 'T2', 'T3'] and the dictionnary with sort value was {'T3': ['T1', 'T2'], 'T2': ['T1'], 'T1': []}

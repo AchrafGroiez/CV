@@ -1,0 +1,9 @@
+Bibliographie(consultation utile):
+    -https://python.doctor/page-apprendre-dictionnaire-python
+    -https://python.developpez.com/cours/DiveIntoPython/php/frdiveintopython/native_data_types/
+    -https://www.cours-gratuit.com/tutoriel-python/tutoriel-python-list-comment-ordonnertrier-une-liste
+    -https://isn-icn-ljm.pagesperso-orange.fr/NSI_cours/chapitre2/co/module_Donnee_type_construit_4.html?mode=html
+    -Les notes de cours sur les string, listes, listes-suite, dictionnaire et file
+    -J'ai reutilisé du code que j'avais fait dans l'exercice1 et je le mis dans l'exercice2 et l'inverse pourrait être vrai
+    -Aussi j'avais fait des fichiers que j'ai supprimer ou j'avais écrit des trucs ou bien fait des tests
+    -Et peut-être d'autres

@@ -1,0 +1,108 @@
+Starting point = 2, the list = [['2', '3'], ['3', '4']] and the best way = ['2', '3', '4']
+Starting point = 3, the list = [['2', '3'], ['3', '4']] and le trajet n'est pas correct
+Starting point = 5 is false and the list of point = [['2', '3'], ['3', '4']]
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 2, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1', '0'], ['0', '2', '0'], ['1', '2', '0'], ['2', '0', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1'], ['0', '2', '0'], ['1', '2'], ['2', '0']] and the best way = ['0', '0', '1', '2', '0']
+Starting point = 0, the list = [['0', '1'], ['0', '2', '0'], ['1', '2'], ['2', '0'], ['0', '4', '3', '6'], ['4', '0'], ['3', '0'], ['6', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0'], ['2', '4', '3', '6'], ['4', '2'], ['3', '2'], ['6', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0'], ['2', '4', '3', '6'], ['4', '2'], ['3', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0'], ['2', '4', '3', '6'], ['4', '2'], ['3', '2'], ['6']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1', '1'], ['1', '0', '3', '4'], ['3', '4']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1', '0'], ['0', '2'], ['1', '2'], ['2', '0'], ['2', '3', '4', '6'], ['3', '2'], ['4', '2'], ['6', '2']] and the best way = ['0', '0', '1', '2', '0', '2', '3', '2', '4']
+Starting point = 0, the list = [['0', '1', '0'], ['0', '2'], ['1', '2'], ['2', '0'], ['2', '3', '4', '6'], ['3', '2'], ['4', '2'], ['6', '2']] and the best way = ['0', '0', '1', '2', '0', '2', '3', '2', '4']
+Starting point = 0, the list = [['0', '1', '0'], ['0', '2'], ['1', '2'], ['2', '0'], ['2', '3', '4', '6'], ['3', '2'], ['4', '2'], ['6', '2']] and the best way = ['0', '0', '1', '2', '0', '2', '3', '2', '4']
+Starting point = 0, the list = [['0', '1', '0'], ['0', '2'], ['1', '2'], ['2', '0'], ['2', '3', '4', '6'], ['3', '2'], ['4', '2'], ['6', '2']] and the best way = ['0', '0', '1', '2', '0', '2', '3', '2', '4']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 5 is false and the list of point = [['0', '1', '0'], ['2', '2']]
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and the best way = ['0', '0', '1']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1'], ['0', '2'], ['1', '2'], ['2', '0']] and the best way = ['0', '1', '2', '0', '2']
+Starting point = 0, the list = [['0', '1', '0'], ['2', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1', '0', '4'], ['2', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1', '0', '4'], ['2', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1', '0', '2', '4'], ['2', '2']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1', '0', '2', '2', '4'], ['2', '2', '3']] and le trajet n'est pas correct
+Starting point = 0, the list = [['0', '1', '0', '2', '2', '4'], ['2', '2', '3']] and le trajet n'est pas correct
+['b', 'c', 'd']Starting point = 0, the list = [['0', '1', '0', '2', '2', '4'], ['2', '2', '3']] and le trajet n'est pas correct
